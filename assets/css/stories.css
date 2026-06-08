@@ -63,7 +63,7 @@
 }
 
 .filter-select option {
-  background: #2C2E1C;
+  background: var(--page-bg);
   color: var(--cream-muted);
 }
 
