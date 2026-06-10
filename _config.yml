@@ -10,6 +10,9 @@ markdown: kramdown
 permalink: /:categories/:year:month:day/:title/
 future: true
 
+plugins:
+  - jekyll-sitemap
+
 # Exclude from build
 exclude:
   - README.md
