@@ -8,6 +8,8 @@ category: environment
 
 _This post was [first published 17 April 2026](https://mapping.share.library.harvard.edu/posts/yao-hua-law/) on the Harvard Mapping Library blog and is republished here on 25 June 2026 with minor edits and updates._
 
+_Video of platform at the end of article_
+
 During my 9-month [Nieman Fellowship for Journalism at Harvard](https://nieman.harvard.edu/), I built -- as a side project -- an online platform for tracking forest reserve changes in Peninsular Malaysia. While the platform has some rough edges, it works and is ready to improve on user feedback.
 
 I have been mulling about this project when I was reporting for environmental newsroom [Macaranga](https://www.macaranga.org). Visiting the Harvard Map Collection spurred me into action. To my pleasant surprise, the Collection has land-use maps and atlas of 1970s Peninsular Malaysia that provided baselines for charting forest changes across decades. And I found a guide in librarian Belle Lipton. Chats with Belle kept me on course and shaped my design of the platform.
@@ -65,3 +67,7 @@ My journalist experience taught me to first aim for an ugly draft and not a sent
 One of the biggest challenges in this project is digitizing the maps from the National Atlas 1977. Scanning and georeferencing the 11 maps introduced enough errors that the borders of the states do not align perfectly (an understatement) when I stitched them together. No method proved satisfactory. I had to choose between a flawed digitized map or none. In the end, I decided to upload it because it could be useful for studying land use at the time -- just not along the state borders.
 
 Now that it's out there, I can improve the map based on user feedback.
+
+## Video added 26 June 2026
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heTC5_08kPs?si=fCl1QqghX4n9PmNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
