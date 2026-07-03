@@ -13,41 +13,9 @@ body {
 }
 
 /* ══════════════════════════════════════════════════════
-   AUTUMN THEME — LIGHT (default)
+   AUTUMN THEME — DARK (default)
    ══════════════════════════════════════════════════════ */
 :root {
-  --accent: #b45049;
-  --accent-dim: rgba(180, 80, 73, 0.28);
-  --accent-hover: rgba(211, 125, 112, 0.7);
-  --cream: #2c2e1c;
-  --cream-muted: rgba(44, 46, 28, 0.88);
-  --text-sub: rgba(65, 41, 28, 0.82);
-  --btn-bg: rgba(184, 145, 110, 0.15);
-  --btn-bg-h: rgba(184, 145, 110, 0.3);
-
-  --ink: #211f01;
-  --ink-muted: #41291c;
-  --ink-faint: rgba(65, 41, 28, 0.55);
-  --page-bg: #f5ede0;
-  --nav-bg: #afd2e6;
-  --pale-sky: #afd2e6;
-  --rule: rgba(180, 80, 73, 0.22);
-
-  --font-display: "Comfortaa", cursive;
-  --font-serif: "Alegreya Sans", sans-serif;
-  --font-sans: "Mulish", sans-serif;
-
-  --measure: 68ch;
-  --nav-h: 56px;
-
-  /* Theme toggle icon */
-  --toggle-icon: "☽";
-}
-
-/* ══════════════════════════════════════════════════════
-   AUTUMN THEME — DARK
-   ══════════════════════════════════════════════════════ */
-[data-theme="dark"] {
   --accent: #d37d70;
   --accent-dim: rgba(211, 125, 112, 0.32);
   --accent-hover: rgba(211, 125, 112, 0.65);
@@ -62,9 +30,41 @@ body {
   --ink-faint: rgba(184, 145, 110, 0.42);
   --page-bg: #211f01;
   --nav-bg: #2c2e1ce0;
+  --pale-sky: #afd2e6;
   --rule: #d37d7033;
 
+  --font-display: "Comfortaa", cursive;
+  --font-serif: "Alegreya Sans", sans-serif;
+  --font-sans: "Mulish", sans-serif;
+
+  --measure: 68ch;
+  --nav-h: 56px;
+
+  /* Theme toggle icon */
   --toggle-icon: "☀";
+}
+
+/* ══════════════════════════════════════════════════════
+   AUTUMN THEME — LIGHT
+   ══════════════════════════════════════════════════════ */
+[data-theme="light"] {
+  --accent: #b45049;
+  --accent-dim: rgba(180, 80, 73, 0.28);
+  --accent-hover: rgba(211, 125, 112, 0.7);
+  --cream: #2c2e1c;
+  --cream-muted: rgba(44, 46, 28, 0.88);
+  --text-sub: rgba(65, 41, 28, 0.82);
+  --btn-bg: rgba(184, 145, 110, 0.15);
+  --btn-bg-h: rgba(184, 145, 110, 0.3);
+
+  --ink: #211f01;
+  --ink-muted: #41291c;
+  --ink-faint: rgba(65, 41, 28, 0.55);
+  --page-bg: #f5ede0;
+  --nav-bg: var(--pale-sky);
+  --rule: rgba(180, 80, 73, 0.22);
+
+  --toggle-icon: "☽";
 }
 
 /* Smooth transition when switching themes */
