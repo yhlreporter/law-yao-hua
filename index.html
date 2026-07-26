@@ -164,13 +164,13 @@
         grid-template-columns: 1fr 1fr;
         gap: 9px;
         width: 100%;
-        max-width: 300px;
+        max-width: 320px;
       }
 
       @media (min-width: 500px) {
         .hero__nav {
-          grid-template-columns: repeat(4, 1fr);
-          max-width: 500px;
+          grid-template-columns: repeat(3, 1fr);
+          max-width: 620px;
         }
       }
 
@@ -210,6 +210,12 @@
       .hero__btn:nth-child(4) {
         animation-delay: 1.45s;
       }
+      .hero__btn:nth-child(5) {
+        animation-delay: 1.6s;
+      }
+      .hero__btn:nth-child(6) {
+        animation-delay: 1.75s;
+      }
 
       .hero__btn:hover {
         background: var(--btn-bg-h);
@@ -237,7 +243,7 @@
         text-transform: uppercase;
         color: rgba(196, 168, 112, 0.38);
         opacity: 0;
-        animation: fadeup 1s 2s ease forwards;
+        animation: fadeup 1s 2.3s ease forwards;
       }
     </style>
   </head>
@@ -256,6 +262,20 @@
           <a class="hero__btn" href="stories/">Reporting</a>
           <a class="hero__btn" href="about/">About</a>
           <a class="hero__btn" href="contact/">Connect</a>
+          <a
+            class="hero__btn"
+            href="https://yhlreporter.github.io/fate-of-our-forests/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Fate of Our Forests</a
+          >
+          <a
+            class="hero__btn"
+            href="https://www.youtube.com/@lyhreporter"
+            target="_blank"
+            rel="noopener noreferrer"
+            >YouTube Channel</a
+          >
         </nav>
       </div>
 
