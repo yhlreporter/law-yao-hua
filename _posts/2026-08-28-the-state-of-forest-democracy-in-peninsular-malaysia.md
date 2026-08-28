@@ -31,9 +31,7 @@ Selamat Hari Merdeka! I am a Malaysian journalist.
 
 [Click here to download the states' gazettes on the above changes](https://github.com/yhlreporter/law-yao-hua/tree/8f6a659a72a38776e150c586dd3b40f4f495d0ad/assets/public_documents/forestry_20260828).
 
-```
-<div class="flourish-embed flourish-map" data-src="visualisation/30086193"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30086193/thumbnail" width="100%" alt="map visualization" /></noscript></div>
-```
+
 <div class="flourish-embed flourish-map" data-src="visualisation/30086193"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30086193/thumbnail" width="100%" alt="map visualization" /></noscript></div>
 
 ## What's next -- Show up!
