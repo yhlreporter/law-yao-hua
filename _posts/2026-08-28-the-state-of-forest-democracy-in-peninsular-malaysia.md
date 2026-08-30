@@ -37,6 +37,8 @@ Selamat Hari Merdeka! I am a Malaysian journalist.
 ## What's next -- Show up!
 16. After my [rant](https://youtu.be/bRU3sKQ5kbM?si=JCEoC9Jo5Ilg_KaN), conservationist and activist friends reminded me that there's always hope to strengthen forest democracy and transparency. "Don't despair", "keep at it", "keep showing up". They are right, of course, and I thank them for their encouragement.
 17. We -- journalists, CSOs, you -- must continue (or begin to) monitoring government maneuvers in forest laws and use. 
-18. Terengganu, Kedah, Selangor, and Johor have yet to amend their forestry enactments in respond to the 2022 federal amendments. Let's keep our eyes on them, and have them know we are watching.
+18. Terengganu, Kedah, Selangor, Penang, and Johor have yet to amend their forestry enactments in respond to the 2022 federal amendments. Let's keep our eyes on them, and have them know we are watching.
 19. We (I'm thinking largely of journalists) have to build strong, local cases for why public opinion in forestry matters for local communities. We need to talk with locals to figure out the gaps in attention and why and how we can flag these issues in ways that match their importance.
 20. I will continue to improve and update [Fate of Our Forests](https://yhlreporter.github.io/fate-of-our-forests/). Soon I will gather people and funds and materials to plug a big gap in the maps of forest reserves. The ball has started rolling!
+
+UPDATED 30/8: Added "Penang" to #18. Penang government had submitted a Bill in March 2026 that adopts ALL of the federal amendments, but at the May 2026 DUN meeting, the government decided to retract the Bill for further deliberation and the DUN approved the retraction. So by today (30/8), Penang hasn't amended their forestry enactment in response to 2022 federal amendments yet.
